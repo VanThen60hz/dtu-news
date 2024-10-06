@@ -1,0 +1,19 @@
+.container {
+    padding: 20px 60px;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 30px;
+}
+
+.title {
+    margin-right: auto;
+}
+
+.action {
+    padding-left: 20px;
+}
